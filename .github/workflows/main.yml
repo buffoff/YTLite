@@ -201,7 +201,7 @@ jobs:
           # repository: PoomSmart/YTUHD
           # ref: 0f59b38817d554ab692a0053456319847a6ab1a1
           repository: Tonwalter888/YTUHD
-          ref: 7b67856ce2823a9722d75c04d1230b4dd27137f3
+          ref: 1993cfe38a41289ef9829e07436549ba2da7d6bb
           path: ${{ github.workspace }}/YTUHD
 
       - name: Clone Return-YouTube-Dislikes
